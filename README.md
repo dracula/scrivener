@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Scrivener](https://www.literatureandlatte.com/scrivener/overview)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Scrivener](https://www.literatureandlatte.com/scrivener/overview).
 
 ![Screenshot](./screenshot.png)
 
