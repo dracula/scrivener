@@ -16,6 +16,9 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 --- |
 [Zeno Rocha](https://github.com/zenorocha) |
 
+[![Ayush Pokharel](https://github.com/ayushpokh.png?size=100)](https://github.com/ayushpokh) |
+--- |
+[Ayush Pokharel](https://github.com/ayushpokh) |
 ## License
 
 [MIT License](./LICENSE)
