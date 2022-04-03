@@ -14,6 +14,5 @@ Download using the [GitHub .zip download](https://github.com/dracula/scrivener/a
 
 1. Extract master.zip 
 2. Move Dracula.scrtheme to a safe location
-3. Open scrivener and import
-3.a Menu Items: Window> Themes> Load theme from file 
+3. Open scrivener and import (Menu Items: Window> Themes> Load theme from file )
 4. Load Dracula.scrtheme and presto! Dracula!
